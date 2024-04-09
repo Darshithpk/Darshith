@@ -1,2 +1,1 @@
-# Darshith
-Case study telecom churn
+## Case study telecom churn
